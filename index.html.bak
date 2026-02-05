@@ -12,7 +12,7 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v26.4 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Undangan Pernikahan Ainul Dan Devi</title>
-	<meta name="description" content="Undangan Pernikahan Ainul Dan Devi" />
+	<meta name="description" content="Buat undangan website untuk pernikahanmu secara mudah, murah dan cepat. Jadikan acara kamu jadi lebih berkesan ! Undangan Pernikahan Ainul Dan Devi" />
 	<meta property="og:locale" content="id_ID" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Undangan Pernikahan Ainul Dan Devi" />
@@ -28,7 +28,7 @@
 	<meta name="twitter:label1" content="Estimasi waktu membaca" />
 	<meta name="twitter:data1" content="5 menit" />
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schemaUndangan Pernikahan Ainul Dan Devi.org","@graph":[{"@type":"WebPage","@id":"https://inv.wekita.id/vintage-01-animasi/","url":"https://inv.wekita.id/vintage-01-animasi/","name":"Undangan Pernikahan Ainul Dan Devi","isPartOf":{"@id":"https://inv.wekita.id/#website"},"primaryImageOfPage":{"@id":"https://inv.wekita.id/vintage-01-animasi/#primaryimage"},"image":{"@id":"https://inv.wekita.id/vintage-01-animasi/#primaryimage"},"thumbnailUrl":"https://inv.wekita.id/wp-content/uploads/2025/05/Premium-Vintage-01-1.webp","datePublished":"2024-08-26T06:38:29+00:00","dateModified":"2025-10-09T08:30:44+00:00","description":"Buat undangan website untuk pernikahanmu secara mudah, murah dan cepat. Jadikan acara kamu jadi lebih berkesan ! ","breadcrumb":{"@id":"https://inv.wekita.id/vintage-01-animasi/#breadcrumb"},"inLanguage":"id","potentialAction":[{"@type":"ReadAction","target":["https://inv.wekita.id/vintage-01-animasi/"]}]},{"@type":"ImageObject","inLanguage":"id","@id":"https://inv.wekita.id/vintage-01-animasi/#primaryimage","url":"https://inv.wekita.id/wp-content/uploads/2025/05/Premium-Vintage-01-1.webp","contentUrl":"https://inv.wekita.id/wp-content/uploads/2025/05/Premium-Vintage-01-1.webp","width":765,"height":768},{"@type":"BreadcrumbList","@id":"https://inv.wekita.id/vintage-01-animasi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda","item":"https://inv.wekita.id/"},{"@type":"ListItem","position":2,"name":""}]},{"@type":"WebSite","@id":"https://inv.wekita.id/#website","url":"https://inv.wekita.id/","name":"Wekita.id","description":"Sebar Undangan sambil Rebahan","publisher":{"@id":"https://inv.wekita.id/#organization"},"inLanguage":"id"},{"@type":"Organization","@id":"https://inv.wekita.id/#organization","name":"Wekita.id","url":"https://inv.wekita.id/","logo":{"@type":"ImageObject","inLanguage":"id","@id":"https://inv.wekita.id/#/schema/logo/image/","url":"https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog.png","contentUrl":"https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog.png","width":512,"height":512,"caption":"Wekita.id"},"image":{"@id":"https://inv.wekita.id/#/schema/logo/image/"}}]}</script>
-	<!-- / Yoast SEO plugin. -->
+	<!-- / Yoast SEO plugin. -->Undangan Pernikahan Ainul Dan Devi
 
 
 <link rel='dns-prefetch' href='//unpkg.com' />
@@ -202,7 +202,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 					}
 				}
 			</style>
-<link rel="icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-32x32.png" sizes="32x32" />
+			<link rel="icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-32x32.png" sizes="32x32" />
 <link rel="icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-180x180.png" />
 <meta name="msapplication-TileImage" content="https://inv.wekita.id/wp-content/uploads/2023/05/cropped-loglog-270x270.png" />
@@ -409,14 +409,16 @@ function isElementorEditing(){
 				</div>
 				<div class="elementor-element elementor-element-403a47c4 ef zoom-in elementor-widget elementor-widget-text-editor" data-id="403a47c4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Putra dari <span class="ayah-marker">Bapak Muhamad jayadi (Alm)</span><br>
-    &amp; <span class="ibu-marker">Ibu Siti mariam (Alm)</span>								</div>
+									Putra dari <span class="ayah-marker">Bapak Muhammad Jayadi</span><br>
+    &amp; <span class="ibu-marker">Ibu Siti Mariam</span>								</div>
 				</div>
 				<div class="elementor-element elementor-element-5e8f4a98 ef zoom-in elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="5e8f4a98" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-social-icons-wrapper elementor-grid">
 							<span class="elementor-grid-item">
-					
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-3a06534" href="https://www.instagram.com/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
 				</span>
 					</div>
 						</div>
@@ -438,18 +440,20 @@ function isElementorEditing(){
 				</div>
 				<div class="elementor-element elementor-element-1470ac35 ef zoom-in elementor-widget elementor-widget-heading" data-id="1470ac35" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Devi Kharisma​</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Devi​</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-6e01d40d ef zoom-in elementor-widget elementor-widget-text-editor" data-id="6e01d40d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Putri dari <span class="ayah-marker">Bapak Roji</span><br>
-    &amp; <span class="ibu-marker">Ibu Odah (Alm)</span>								</div>
+									Putri dari <span class="ayah-marker">Bapak M. Dawam</span><br>
+    &amp; <span class="ibu-marker">Ibu Dewi Sudarwati</span>								</div>
 				</div>
 				<div class="elementor-element elementor-element-79b44d2a ef zoom-in elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="79b44d2a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-social-icons-wrapper elementor-grid">
 							<span class="elementor-grid-item">
-					
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-3a06534" href="https://www.instagram.com" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
 				</span>
 					</div>
 						</div>
@@ -524,18 +528,18 @@ function isElementorEditing(){
 					<h2 class="elementor-heading-title elementor-size-default">Sabtu, 14 Februari 2026</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-4cd041e2 ef slide-up elementor-widget elementor-widget-text-editor" data-id="4cd041e2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">Pukul : 07:00 WIB	
-        </div>
+				<div class="elementor-widget-container">
+									Pukul : 08:00 WIB								</div>
 				</div>
 				<div class="elementor-element elementor-element-423bdb98 ef slide-up elementor-widget elementor-widget-text-editor" data-id="423bdb98" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									Tempat : <span class="niku-multiline"><strong>Kediaman Mempelai Wanita</strong>
-Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) Des. Gunung sari, Kec. Pamijahan Kab. Bogor Jawa Barat</span>								</div>
+Ds Pagu, Wates, Kediri, Jawa Timur</span>								</div>
 				</div>
 				<div class="elementor-element elementor-element-a03a381 elementor-align-center lokasi-btn ef zoom-in elementor-widget elementor-widget-button" data-id="a03a381" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://maps.app.goo.gl/hkWki28i6wcmAQ637?g_st=ac" target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.google.com/maps/?hl=id" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="fas fa-map-marker-alt"></i>			</span>
@@ -561,17 +565,17 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				</div>
 				<div class="elementor-element elementor-element-378330ac ef slide-up elementor-widget elementor-widget-text-editor" data-id="378330ac" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Pukul : 08:00 WIB &#8211; Selesai								</div>
+									Pukul : 10:00 WIB &#8211; Selesai								</div>
 				</div>
 				<div class="elementor-element elementor-element-15179d5c ef slide-up elementor-widget elementor-widget-text-editor" data-id="15179d5c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 									Tempat : <span class="niku-multiline"><strong>Kediaman Mempelai Wanita</strong>
-Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) Des. Gunung sari, Kec. Pamijahan Kab. Bogor Jawa Barat</span>								</div>
+Ds Pagu, Wates, Kediri, Jawa Timur</span>								</div>
 				</div>
 				<div class="elementor-element elementor-element-2053f2e7 elementor-align-center lokasi-btn ef zoom-in elementor-widget elementor-widget-button" data-id="2053f2e7" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<div class="elementor-button-wrapper">
-					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://maps.app.goo.gl/hkWki28i6wcmAQ637?g_st=ac" target="_blank">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.google.com/maps/?hl=id" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<i aria-hidden="true" class="fas fa-map-marker-alt"></i>			</span>
@@ -623,11 +627,11 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				</div>
 				<div class="elementor-element elementor-element-240e5f07 ef zoom-in elementor-widget elementor-widget-heading" data-id="240e5f07" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Sabtu, 14 Februari 2026</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Selasa, 23 September 2025</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-c28a527 ef zoom-in elementor-widget elementor-widget-text-editor" data-id="c28a527" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									Pukul : 07.00
+									Pukul : 10.00
  WIB								</div>
 				</div>
 				<div class="elementor-element elementor-element-6fa09f6f elementor-align-center ef zoom-in elementor-widget elementor-widget-button" data-id="6fa09f6f" data-element_type="widget" data-widget_type="button.default">
@@ -686,7 +690,7 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				</div>
 				<div class="elementor-element elementor-element-2244ec5f ef slide-up elementor-widget elementor-widget-text-editor" data-id="2244ec5f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<span class="deskripsi-ls-marker" data-ls-index="1">Pada 1 Februari 2026, dalam khitbah sederhana di rumah dengan tawa keluarga, aroma teh hangat, dan doa yang khusyuk, ia menyampaikan niat memuliakan, cincin disematkan, restu dipeluk, dan kami sepakat menjaga yang halal sambil menata langkah-langkah ke depan dengan syukur yang tidak putus.</span>								</div>
+									<span class="deskripsi-ls-marker" data-ls-index="1">Pada 3 Februari 2025, dalam khitbah sederhana di rumah dengan tawa keluarga, aroma teh hangat, dan doa yang khusyuk, ia menyampaikan niat memuliakan, cincin disematkan, restu dipeluk, dan kami sepakat menjaga yang halal sambil menata langkah-langkah ke depan dengan syukur yang tidak putus.</span>								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-599a3cd e-con-full ls-con e-flex e-con e-child" data-id="599a3cd" data-element_type="container">
@@ -696,7 +700,7 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				</div>
 				<div class="elementor-element elementor-element-7f7067ce ef slide-up elementor-widget elementor-widget-text-editor" data-id="7f7067ce" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<span class="deskripsi-ls-marker" data-ls-index="2">Bismillah, 14 Februari 2026 di Bogor kami mengikat janji suci disaksikan orang tua dan sahabat, memohon rahmat Allah agar hari-hari setelahnya menjadi ruang belajar untuk saling menguatkan dan mengasihi, membangun rumah yang tenang, hangat, dan selalu kembali pada doa.</span>								</div>
+									<span class="deskripsi-ls-marker" data-ls-index="2">Bismillah, 16 Agustus 2026 di Yogyakarta kami mengikat janji suci disaksikan orang tua dan sahabat, memohon rahmat Allah agar hari-hari setelahnya menjadi ruang belajar untuk saling menguatkan dan mengasihi, membangun rumah yang tenang, hangat, dan selalu kembali pada doa.</span>								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-1db9c33a e-con-full ls-con e-flex e-con e-child" data-id="1db9c33a" data-element_type="container">
@@ -746,11 +750,11 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 		<div class="elementor-element elementor-element-2ca9c202 e-con-full animated-slow gift-con e-flex elementor-invisible e-con e-child" data-id="2ca9c202" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;zoomIn&quot;}">
 				<div class="elementor-element elementor-element-4e51d21c elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-heading" data-id="4e51d21c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<p class="elementor-heading-title elementor-size-default">Bank Mandiri</p>				</div>
+					<p class="elementor-heading-title elementor-size-default">BCA</p>				</div>
 				</div>
 				<div class="elementor-element elementor-element-8ee82a6 elementor-widget elementor-widget-image" data-id="8ee82a6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="2048" height="650" src="https://ibb.co.com/HfkFsvYy" class="attachment-full size-full wp-image-24384" alt="" srcset="https://ibb.co.com/HfkFsvYy 2048w, https://ibb.co.com/0yRwM4H9 300w, https://ibb.co.com/RTSSDkBM 1024w, https://ibb.co.com/mCGDpWkx 768w, https://ibb.co.com/W8fVj7Z 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />															</div>
+															<img loading="lazy" decoding="async" width="2048" height="650" src="https://inv.wekita.id/wp-content/uploads/2025/10/BCA_logo_Bank_Central_Asia-1-3-2048x650-1-1-1-1.png" class="attachment-full size-full wp-image-24384" alt="" srcset="https://inv.wekita.id/wp-content/uploads/2025/10/BCA_logo_Bank_Central_Asia-1-3-2048x650-1-1-1-1.png 2048w, https://inv.wekita.id/wp-content/uploads/2025/10/BCA_logo_Bank_Central_Asia-1-3-2048x650-1-1-1-1-300x95.png 300w, https://inv.wekita.id/wp-content/uploads/2025/10/BCA_logo_Bank_Central_Asia-1-3-2048x650-1-1-1-1-1024x325.png 1024w, https://inv.wekita.id/wp-content/uploads/2025/10/BCA_logo_Bank_Central_Asia-1-3-2048x650-1-1-1-1-768x244.png 768w, https://inv.wekita.id/wp-content/uploads/2025/10/BCA_logo_Bank_Central_Asia-1-3-2048x650-1-1-1-1-1536x488.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-115a6812 elementor-widget elementor-widget-image" data-id="115a6812" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
@@ -758,11 +762,11 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				</div>
 				<div class="elementor-element elementor-element-2aa45dd5 elementor-widget elementor-widget-heading" data-id="2aa45dd5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<p class="elementor-heading-title elementor-size-default"><span class="no-rekening-marker" data-gift-index="0">1020011370696</span></p>				</div>
+					<p class="elementor-heading-title elementor-size-default"><span class="no-rekening-marker" data-gift-index="0">081319579035</span></p>				</div>
 				</div>
 				<div class="elementor-element elementor-element-568d8f90 elementor-widget elementor-widget-heading" data-id="568d8f90" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<p class="elementor-heading-title elementor-size-default">MUHAMAD AINUL YAQIN</p>				</div>
+					<p class="elementor-heading-title elementor-size-default">Devi</p>				</div>
 				</div>
 				<div class="elementor-element elementor-element-50643ef9 elementor-align-right elementor-tablet-align-right elementor-mobile-align-right elementor-widget elementor-widget-weddingpress-copy-text" data-id="50643ef9" data-element_type="widget" data-widget_type="weddingpress-copy-text.default">
 				<div class="elementor-widget-container">
@@ -841,7 +845,7 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				</div>
 				<div class="elementor-element elementor-element-69a6521 elementor-widget elementor-widget-heading" data-id="69a6521" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<p class="elementor-heading-title elementor-size-default">MUHAMAD AINUL YAQIN</p>				</div>
+					<p class="elementor-heading-title elementor-size-default">Ainul</p>				</div>
 				</div>
 				<div class="elementor-element elementor-element-54446a28 elementor-align-right elementor-tablet-align-right elementor-mobile-align-right elementor-widget elementor-widget-weddingpress-copy-text" data-id="54446a28" data-element_type="widget" data-widget_type="weddingpress-copy-text.default">
 				<div class="elementor-widget-container">
@@ -1053,7 +1057,7 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 									Nama Penerima : <span class="nama-kh-marker">Muhammad Ainul Yaqin</span> <br>
 No. HP : 081319579035 <br>
 Alamat : <span class="niku-multiline">Kediaman Mempelai Wanita
-Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) Des. Gunung sari, Kec. Pamijahan Kab. Bogor Jawa Barat</span> 								</div>
+Ds Pagu, Wates, Kediri, Jawa Timur</span> 								</div>
 				</div>
 				</div>
 				</div>
@@ -1174,7 +1178,7 @@ Jalan Raya Gunung Salak Endah, RT.3/RW.7, Kampung Cikiray, ( RUMAH BAPAK ROJI) D
 				<div class="elementor-widget-container">
 							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
 							<span class="elementor-grid-item" role="listitem">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-d0d1213" href="https://www.instagram.com/fix_endless/" target="_blank">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-d0d1213" href="https://www.instagram.com/wekita.id/" target="_blank">
 						<span class="elementor-screen-only">Instagram</span>
 						<i aria-hidden="true" class="fab fa-instagram"></i>					</a>
 				</span>
@@ -2618,7 +2622,7 @@ window.runCleanup = runCleanup;
 			<div class="elementor-element elementor-element-7348fb98 e-con-full e-flex e-con e-parent" data-id="7348fb98" data-element_type="container">
 				<div class="elementor-element elementor-element-ed2d1cb elementor-align-left elementor-widget__width-inherit elementor-widget elementor-widget-lottie" data-id="ed2d1cb" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/inv.wekita.id\/wp-content\/uploads\/2025\/06\/Artboard-1-3.json&quot;,&quot;id&quot;:21810,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;link_to&quot;:&quot;custom&quot;,&quot;custom_link&quot;:{&quot;url&quot;:&quot;https:\/\/wa.me\/message\/6281319579035&quot;,&quot;is_external&quot;:&quot;on&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
 				<div class="elementor-widget-container">
-				</div>
+					<a class="e-lottie__container__link" href="https://wa.me/6281319579035?text=Halo%20saya%20ingin%20konfirmasi%20kehadiran" target="_blank"><div class="e-lottie__container"><div class="e-lottie__animation"></div></div></a>				</div>
 				</div>
 				</div>
 				</div>
@@ -2947,19 +2951,5 @@ if (d && d.type==='idb-ymd-override' && RE.test(d.ymd)) {
     }catch(_){}
   })();
   </script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const urlParams = new URLSearchParams(window.location.search);
-        const namaTamu = urlParams.get('to');
-        if (namaTamu) {
-            const targets = document.querySelectorAll('h1, h2, h3, h4, h5, h6, p, span');
-            targets.forEach(el => {
-                if (el.innerText.trim() === 'Nama Tamu') {
-                    el.innerText = decodeURIComponent(namaTamu).replace(/\+/g, ' ');
-                }
-            });
-        }
-    });
-</script>
   	</body>
 </html>
